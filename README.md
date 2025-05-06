@@ -5,11 +5,11 @@ Apaixonada por tecnologia, aprendizado constante e desenvolvimento de soluções
 
 - 🔭 Atualmente Estagiária de planejamento  
 - 🌱 Estudando Java e desenvolvimento Salesforce  
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Linguagens de programação e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="40px"/>
