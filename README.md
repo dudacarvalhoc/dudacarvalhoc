@@ -33,10 +33,10 @@ Apaixonada por tecnologia, aprendizado constante e desenvolvimento de soluções
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
-![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&onedark)
+![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&theme=onedark)
 
 ---
 
