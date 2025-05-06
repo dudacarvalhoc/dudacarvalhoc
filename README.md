@@ -1,4 +1,4 @@
-# Olá, eu sou a Duda Carvalho! ♡
+# Olá, eu sou a Duda Carvalho! 🩷
 
 Sou uma desenvolvedora em formação com foco em **Salesforce**, **Python** e **Java**.  
 Apaixonada por tecnologia, aprendizado constante e desenvolvimento de soluções criativas.
