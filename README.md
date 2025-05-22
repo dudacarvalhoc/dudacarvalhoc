@@ -1,6 +1,6 @@
-<h2 align="center">🎀Hello, I'm Duda Carvalho! 🎀</h2>
+<h2 align="center">Hello, I'm Duda Carvalho🎀</h2>
 
-<p align="center">
+<p align="left">
   💻 Computer Science student | 👩‍💻 Planning Intern at Lenovo <br>
   🌎 Indaiatuba, SP - Brazil 
   🚀 I am a developer in training with a focus on **Salesforce**, **Python** and **Java**, Passionate about technology, constant learning and developing creative solutions.
