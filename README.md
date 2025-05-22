@@ -1,12 +1,25 @@
-# Olá, eu sou a Duda Carvalho ♡
+<h2 align="center">🎀Hello, I'm Duda Carvalho! 🎀</h2>
 
-Sou uma desenvolvedora em formação com foco em **Salesforce**, **Python** e **Java**.  
-Apaixonada por tecnologia, aprendizado constante e desenvolvimento de soluções criativas.
+<p align="center">
+  💻 Computer Science student | 👩‍💻 Planning Intern at Lenovo <br>
+  🌎 Indaiatuba, SP - Brazil 
+  🚀 I am a developer in training with a focus on **Salesforce**, **Python** and **Java**, Passionate about technology, constant learning and developing creative solutions.
+</p>
 
-- 🔭 Atualmente Estagiária de planejamento  
-- 🌱 Estudando Java e desenvolvimento Salesforce  
-- 😄 Pronomes: Ela/Dela
+---
+### 💖 My projects 
 
+- 🐾 **Auvalia**  
+  Together with my team, I developed AuValia, an innovative app designed for evaluating pet shops in the Indaiatuba region. The system allows users to review the services provided by pet shops, find the best options, and also schedule services such as grooming, bathing, and veterinary consultations.
+  One of the key features we developed was the pet registration page, as shown in the image. Here, pet owners can register essential information about their pets, such as name, breed, size, gender, and comorbidities. This feature facilitates personalized service scheduling, ensuring greater comfort and safety for the animals.
+  The project was developed for the Web and Mobile Programming course, using HTML, CSS, and JavaScript. We focused on building a clean, responsive, and intuitive interface, always aiming to deliver the best user experience.
+
+- 🌐 **Salesforce project**  
+  This project was developed as part of a practical learning challenge in Salesforce, focusing on integration between systems and automation of commercial processes, with the objective of implementing an order taking system for salespeople of a fictitious company in the cosmetics sector, called Beleza nas Nuvens, with direct integration to an ERP hosted in another Salesforce org.
+
+- 🌟 **Take A Look**  
+  A site similar to Pinterest, where you can post photos, like and dislike, follow other profiles, etc. An interactive application for those who like to dive into images, wallpapers and post photos of their routine.
+  
 ---
 
 ## 🚀 Linguagens de programação e Ferramentas
