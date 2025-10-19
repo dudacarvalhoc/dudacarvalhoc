@@ -57,7 +57,8 @@
 🌷 *Discover all my repositories [here](https://github.com/dudacarvalhoc?tab=repositories).*  
 
 ---
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 ## 💖 GitHub Stats  
 
 <p align="center">
