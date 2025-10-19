@@ -1,16 +1,6 @@
-<h2 align="center">
-  <span style="
-    background: linear-gradient(90deg, #ff7eb9, #d291ff, #fbeaff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-    animation: gradientMove 3s ease infinite;
-    background-size: 200% 200%;
-    display: inline-block;
-  ">
-    💗 Hello Developers, I'm Duda 💗
-  </span>
-</h2>
+<p align="center">
+  <img src="./banner.svg" alt="Hello Developers, I'm Duda" width="900" />
+</p>
 
 <style>
 @keyframes gradientMove {
