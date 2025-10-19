@@ -10,24 +10,23 @@
 
 ### 💫 My Projects  
 
-- 🏎️ **Bluetooth Car** - 1st semester of university
-  ➜ A Bluetooth-powered car using Arduino programming, from the car's chassis to the code, with the aim of popping a balloon (project evaluation model - competition between students.
-
-- 🏡 **Home automation** - 2nd semester of university
-  ➜ A fully automated home via Bluetooth, from turning lights on and off, choosing light colors, garage door and automatic doors, also done from assembling the house with MDF to all programming.
-  
-- 🐾 **Auvalia**  - 3rd semester of university
-  ➜ A website created to help pet parents find the best and most reliable pet shops and veterinarians in their city. They can add a profile for their pet, including breed, size, name, age, and comorbidities. They can rate and view reviews to inspire other pet parents to take their pets to the best places. Built with Javascript, HTML, and CSS.
-
-- 📸 **Take A Look** - 3rd semester of university 
-  ➜ An activity we did in class that yielded incredibly impressive results. An app based on Pinterest, where you can create posts, like and dislike, save, and even create a profile. Also built with Javascript, HTML, and CSS.
-
 - 🐕 **WatchPet** - 4th semester of university
   ➜ This is our current project. Designed for both domestic and agricultural pets, it includes a smart collar that lets you track your pet's sleep quality, blood pressure, heart rate, GPS location, and more. An app that lets you access all the information the collar provides about your pet and sends alerts if your pet has left your property or is stolen. A website designed solely to showcase our product's capabilities—just ads, packages, and incredible information.
 
 - ☁ **Salesforce Project**  
   ➜ A project still in progress, but with the objective of setting up a cosmetics store, from reports, Apex programming, triggers, dashboards, etc.
+  
+- 🐾 **Auvalia**  - 3rd semester of university
+  ➜ A website created to help pet parents find the best and most reliable pet shops and veterinarians in their city. They can add a profile for their pet, including breed, size, name, age, and comorbidities. They can rate and view reviews to inspire other pet parents to take their pets to the best places. Built with Javascript, HTML, and CSS.
+  
+- 📸 **Take A Look** - 3rd semester of university 
+  ➜ An activity we did in class that yielded incredibly impressive results. An app based on Pinterest, where you can create posts, like and dislike, save, and even create a profile. Also built with Javascript, HTML, and CSS.
+  
+- 🏡 **Home automation** - 2nd semester of university
+  ➜ A fully automated home via Bluetooth, from turning lights on and off, choosing light colors, garage door and automatic doors, also done from assembling the house with MDF to all programming.
 
+- 🏎️ **Bluetooth Car** - 1st semester of university
+  ➜ A Bluetooth-powered car using Arduino programming, from the car's chassis to the code, with the aim of popping a balloon (project evaluation model - competition between students.
 ---
 
 ## 🚀 Languages & Tools  
