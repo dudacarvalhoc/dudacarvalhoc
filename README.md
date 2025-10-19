@@ -1,10 +1,10 @@
-<h2 align="center">💗 Hello Developers, I'm Duda 💗</h2>
+<h2 align="center">❤️ Hello Developers, I'm Duda ❤️</h2>
 
-🌸 **Planning Intern at Lenovo** - Global Supply Chain. 
-💻 **Programming student** focused on **Java**, **Python** & **Salesforce**. 
-📈 **Investment enthusiast**.
-📍 **Indaiatuba - SP, Brazil**.  
-🎓 **Bachelor's Degree in Computer Science**. 
+🌸 **Planning Intern at Lenovo** – Global Supply Chain. <br>
+💻 **Programming student** focused on **Java**, **Python** & **Salesforce**. <br>
+💼 **Investment enthusiast**. <br>
+📍 **Indaiatuba – SP, Brazil**. <br>
+🎓 **Bachelor's Degree in Computer Science**.
 
 ---
 
