@@ -67,12 +67,8 @@
 
 ### ☁️ Salesforce Ecosystem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="55" alt="Salesforce" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white" height="35" alt="Apex" />
-&nbsp;
-<img src="https://img.shields.io/badge/Lightning-FFAA00?style=for-the-badge&logo=lightning&logoColor=white" height="35" alt="Lightning" />
-&nbsp;
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="35" alt="SOQL" />
+
+**Apex • Lightning Components • SOQL**
 
 ### 💻 Linguagens
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp" height="55" />
