@@ -1,8 +1,14 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💗&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💕&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&font=Kanit" />
+
+  <a href="https://github.com/dudacarvalhoc">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3500&pause=800&color=FF9BCD&center=true&vCenter=true&width=600&lines=Bem-vinda(o)+ao+meu+perfil!+💕;Ciência+da+Computação+🎓;Developer+Salesforce+☁️;Sempre+aprendendo+algo+novo+✨" />
+  </a>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -10,10 +16,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dudacortellini@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:dudaccortellini@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=dudacarvalhoc&label=Profile%20views&color=ff9bcd&style=for-the-badge" />
 
@@ -27,18 +33,21 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```typescript
-const duda = {
-  nome: "Maria Eduarda Carvalho",
-  idade: 20,
-  localizacao: "Indaiatuba, SP 🇧🇷",
-  formacao: "Bacharelado em Ciência da Computação 🎓",
-  trabalhoAtual: "Planning Intern @ Lenovo - Global Supply Chain",
-  foco: ["Salesforce ☁️", "Java ☕", "Python 🐍"],
-  hobbies: ["Investimentos 📈", "Tecnologia", "Café ☕"],
-  filosofia: "A tecnologia move o mundo — e eu quero ajudar a codar o futuro ✨"
-};
-```
+👩‍💻 Olá! Eu sou a **Maria Eduarda Carvalho**, mas pode me chamar de **Duda** 💕
+
+🎓 Tenho 20 anos e curso **Bacharelado em Ciência da Computação**
+
+🌍 Moro em **Indaiatuba, SP — Brasil**
+
+💼 Atualmente sou **Planning Intern na Lenovo** na área de Global Supply Chain
+
+☁️ Estudante apaixonada por **Salesforce**, **Java** e **Python**
+
+📈 Entusiasta de **investimentos** e tecnologia
+
+☕ E claro... viciada em café!
+
+✨ *"A tecnologia move o mundo — e eu quero ajudar a codar o futuro."*
 
 <br clear="right"/>
 
@@ -48,26 +57,17 @@ const duda = {
 
 <div align="center">
 
-  ### ☁️ Salesforce & Cloud
-  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-  ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
+### ☁️ Salesforce & Cloud
+<img src="https://skillicons.dev/icons?i=salesforce" height="55" />
 
-  ### 💻 Linguagens
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp" height="55" />
 
-  ### 🎨 Front-end
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=react,html,css" height="55" />
 
-  ### 🛠️ Ferramentas
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" height="55" />
 
 </div>
 
@@ -134,7 +134,7 @@ const duda = {
 
 <!-- ════════════════════════════════════════════════════════ -->
 
-## 🐍 A cobrinha comendo meus contribuições!
+## 🐍 A cobrinha comendo minhas contribuições!
 
 <div align="center">
   
@@ -144,20 +144,10 @@ const duda = {
 
 <!-- ════════════════════════════════════════════════════════ -->
 
-## 💭 Frase do dia
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" />
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════ -->
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" />
   
-  <p>💗 <i>"Technology moves the world — and I want to help code the future."</i> 💗</p>
+  <p>💕 <i>"Technology moves the world — and I want to help code the future."</i> 💕</p>
   
 </div>
