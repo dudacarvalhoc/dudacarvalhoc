@@ -54,7 +54,7 @@
 
 </td>
     <td valign="middle" width="40%" align="center">
-      <img alt="coding" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+      <img alt="coding" width="280" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
     </td>
   </tr>
 </table>
@@ -79,6 +79,15 @@
 
 ### 🎨 Front-end
 <img src="https://skillicons.dev/icons?i=react,html,css" height="55" />
+
+### 📊 Business & Data
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI" />
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35" alt="Excel" />
+&nbsp;
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="35" alt="PowerPoint" />
+&nbsp;
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="35" alt="SAP" />
 
 ### 🛠️ Ferramentas
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" height="55" />
