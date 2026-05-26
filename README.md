@@ -2,10 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0d9,100:ff9bcd&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💕&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&font=Kanit" />
 
-  <a href="https://github.com/dudacarvalhoc">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3500&pause=800&color=FF9BCD&center=true&vCenter=true&width=600&lines=Bem-vinda(o)+ao+meu+perfil!+💕;Ciência+da+Computação+🎓;Developer+Salesforce+☁️;Sempre+aprendendo+algo+novo+✨" />
-  </a>
-
 </div>
 
 <br/>
@@ -36,7 +32,9 @@
 
 ## 🌸 Sobre mim
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+  <tr>
+    <td valign="middle" width="60%">
 
 👩‍💻 Olá! Eu sou a **Maria Eduarda Carvalho**, mas pode me chamar de **Duda** 💕
 
@@ -54,7 +52,12 @@
 
 ✨ *"A tecnologia move o mundo — e eu quero ajudar a codar o futuro."*
 
-<br clear="right"/>
+</td>
+    <td valign="middle" width="40%" align="center">
+      <img alt="coding" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 <!-- ════════════════════════════════════════════════════════ -->
 
@@ -94,71 +97,4 @@
       <p>Coleira inteligente para pets domésticos e do agronegócio que monitora qualidade do sono, pressão, batimentos e localização GPS. Inclui app de acompanhamento com alertas de fuga e roubo.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Salesforce Project</h3>
-      <p align="center"><i>Em desenvolvimento</i></p>
-      <p>Implementação completa de uma loja de cosméticos no Salesforce — relatórios, programação em Apex, triggers, dashboards e automações.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐾 Auvalia</h3>
-      <p align="center"><i>3º semestre</i></p>
-      <p>Plataforma web para tutores encontrarem os melhores petshops e veterinários da sua cidade. Perfil para cada pet, avaliações e recomendações da comunidade.</p>
-      <p align="center"><a href="https://github.com/dudacarvalhoc/AuValia">🔗 Ver projeto</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📸 Take A Look</h3>
-      <p align="center"><i>3º semestre</i></p>
-      <p>App inspirado no Pinterest com sistema de posts, curtidas, salvamento e perfis de usuário. Desenvolvido em JavaScript, HTML e CSS.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏡 Home Automation</h3>
-      <p align="center"><i>2º semestre</i></p>
-      <p>Casa totalmente automatizada via Bluetooth: controle de luzes, cores RGB, portões e portas. Da maquete em MDF até a programação completa.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏎️ Bluetooth Car</h3>
-      <p align="center"><i>1º semestre</i></p>
-      <p>Carrinho controlado por Bluetooth com Arduino. Projeto avaliativo em formato de competição: estourar o balão do adversário primeiro 🎈</p>
-    </td>
-  </tr>
-</table>
-
-<!-- ════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&theme=rose_pine&title_color=ff9bcd&icon_color=ff80bf&text_color=f2e8f0&bg_color=1a1b27&border_color=ff9bcd&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&theme=rose_pine&title_color=ff9bcd&text_color=f2e8f0&bg_color=1a1b27&border_color=ff9bcd&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dudacarvalhoc&theme=rose-pine&hide_border=false&border=ff9bcd&background=1a1b27&stroke=ff9bcd&ring=ff9bcd&fire=ff80bf&currStreakLabel=ff9bcd" />
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════ -->
-
-## 🐍 A cobrinha comendo minhas contribuições!
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/dudacarvalhoc/dudacarvalhoc/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9bcd,100:ffc0d9&height=120&section=footer" />
-  
-  <p>💕 <i>"Technology moves the world — and I want to help code the future."</i> 💕</p>
-  
-</div>
+      <h3 align="center">☁️ Salesforce P
