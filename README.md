@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💕&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&font=Kanit" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0d9,100:ff9bcd&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💕&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&font=Kanit" />
 
   <a href="https://github.com/dudacarvalhoc">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3500&pause=800&color=FF9BCD&center=true&vCenter=true&width=600&lines=Bem-vinda(o)+ao+meu+perfil!+💕;Ciência+da+Computação+🎓;Developer+Salesforce+☁️;Sempre+aprendendo+algo+novo+✨" />
@@ -13,14 +13,19 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/dudacarvalhoc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-dudacarvalhoc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dudacortellini@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dudacortellini-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:dudaccortellini@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-dudaccortellini-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
+
+</div>
+
+<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=dudacarvalhoc&label=Profile%20views&color=ff9bcd&style=for-the-badge" />
 
 </div>
@@ -31,7 +36,7 @@
 
 ## 🌸 Sobre mim
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 👩‍💻 Olá! Eu sou a **Maria Eduarda Carvalho**, mas pode me chamar de **Duda** 💕
 
@@ -57,8 +62,14 @@
 
 <div align="center">
 
-### ☁️ Salesforce & Cloud
-<img src="https://skillicons.dev/icons?i=salesforce" height="55" />
+### ☁️ Salesforce Ecosystem
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="55" alt="Salesforce" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white" height="35" alt="Apex" />
+&nbsp;
+<img src="https://img.shields.io/badge/Lightning-FFAA00?style=for-the-badge&logo=lightning&logoColor=white" height="35" alt="Lightning" />
+&nbsp;
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="35" alt="SOQL" />
 
 ### 💻 Linguagens
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp" height="55" />
@@ -146,7 +157,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9bcd,100:ffc0d9&height=120&section=footer" />
   
   <p>💕 <i>"Technology moves the world — and I want to help code the future."</i> 💕</p>
   
