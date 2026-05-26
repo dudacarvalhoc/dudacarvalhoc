@@ -1,87 +1,163 @@
-<h2 align="center">❤️ Hello Developers, I'm Duda ❤️</h2>
-
-🌸 **Planning Intern at Lenovo** – Global Supply Chain. <br>
-💻 **Programming student** focused on **Java**, **Python** & **Salesforce**. <br>
-💼 **Investment enthusiast**. <br>
-📍 **Indaiatuba – SP, Brazil**. <br>
-🎓 **Bachelor's Degree in Computer Science**.
-
----
-
-### 💫 My Projects  
-
-- 🐕 **WatchPet** - 4th semester of university
-  ➜ This is our current project. Designed for both domestic and agricultural pets, it includes a smart collar that lets you track your pet's sleep quality, blood pressure, heart rate, GPS location, and more. An app that lets you access all the information the collar provides about your pet and sends alerts if your pet has left your property or is stolen. A website designed solely to showcase our product's capabilities—just ads, packages, and incredible information.
-
-- ☁ **Salesforce Project**  
-  ➜ A project still in progress, but with the objective of setting up a cosmetics store, from reports, Apex programming, triggers, dashboards, etc.
+<div align="center">
   
-- 🐾 **Auvalia**  - 3rd semester of university
-  ➜ A website created to help pet parents find the best and most reliable pet shops and veterinarians in their city. They can add a profile for their pet, including breed, size, name, age, and comorbidities. They can rate and view reviews to inspire other pet parents to take their pets to the best places. Built with Javascript, HTML, and CSS.
-  
-- 📸 **Take A Look** - 3rd semester of university 
-  ➜ An activity we did in class that yielded incredibly impressive results. An app based on Pinterest, where you can create posts, like and dislike, save, and even create a profile. Also built with Javascript, HTML, and CSS.
-  
-- 🏡 **Home automation** - 2nd semester of university
-  ➜ A fully automated home via Bluetooth, from turning lights on and off, choosing light colors, garage door and automatic doors, also done from assembling the house with MDF to all programming.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hello,%20World!%20I'm%20Duda%20💗&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-- 🏎️ **Bluetooth Car** - 1st semester of university
-  ➜ A Bluetooth-powered car using Arduino programming, from the car's chassis to the code, with the aim of popping a balloon (project evaluation model - competition between students.
----
+</div>
 
-## 🚀 Languages & Tools  
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="45px" title="Salesforce"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45px" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45px" title="C++"/>
-</p>
-
----
-
-## 🌸 Featured Repositories  
-
-- [🐍 **Python Projects**](https://github.com/dudacarvalhoc/Python)  
-  ➜ (Short note about your Python projects)
-
-- [☕ **Java Projects**](https://github.com/dudacarvalhoc/Java)  
-  ➜ (Mention what you've learned or practiced here)
-
-- [🎨 **Auvalia Project**](https://github.com/dudacarvalhoc/AuValia)  
-  ➜ (Talk about your visual or design focus here)
-
-🌷 *Discover all my repositories [here](https://github.com/dudacarvalhoc?tab=repositories).*  
-
----
-## 💖 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&theme=rose_pine&title_color=ff9bcd&icon_color=ff80bf&text_color=f2e8f0&bg_color=1a1b27" alt="Duda's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&theme=rose_pine&title_color=ff9bcd&text_color=f2e8f0&bg_color=1a1b27" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="left">
   <a href="https://www.linkedin.com/in/dudacarvalhoc/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35px" title="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dudaccortellini@hotmail.com">
-    <img src="https://img.icons8.com/?size=48&id=13640&format=png" height="35px" title="Email (Outlook)"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:dudacortellini@gmail.com">
-    <img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" height="35px" title="Email (Gmail)"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:dudaccortellini@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dudacarvalhoc&label=Profile%20views&color=ff9bcd&style=for-the-badge" />
 
----
+</div>
 
-✨ *"Technology moves the world — and I want to help code the future."* ✨
+<br/>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 🌸 Sobre mim
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```typescript
+const duda = {
+  nome: "Maria Eduarda Carvalho",
+  idade: 20,
+  localizacao: "Indaiatuba, SP 🇧🇷",
+  formacao: "Bacharelado em Ciência da Computação 🎓",
+  trabalhoAtual: "Planning Intern @ Lenovo - Global Supply Chain",
+  foco: ["Salesforce ☁️", "Java ☕", "Python 🐍"],
+  hobbies: ["Investimentos 📈", "Tecnologia", "Café ☕"],
+  filosofia: "A tecnologia move o mundo — e eu quero ajudar a codar o futuro ✨"
+};
+```
+
+<br clear="right"/>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 🚀 Minhas Tecnologias
+
+<div align="center">
+
+  ### ☁️ Salesforce & Cloud
+  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+  ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
+
+  ### 💻 Linguagens
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+  ### 🎨 Front-end
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ### 🛠️ Ferramentas
+  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 💫 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐕 WatchPet</h3>
+      <p align="center"><i>4º semestre — Em desenvolvimento</i></p>
+      <p>Coleira inteligente para pets domésticos e do agronegócio que monitora qualidade do sono, pressão, batimentos e localização GPS. Inclui app de acompanhamento com alertas de fuga e roubo.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Salesforce Project</h3>
+      <p align="center"><i>Em desenvolvimento</i></p>
+      <p>Implementação completa de uma loja de cosméticos no Salesforce — relatórios, programação em Apex, triggers, dashboards e automações.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐾 Auvalia</h3>
+      <p align="center"><i>3º semestre</i></p>
+      <p>Plataforma web para tutores encontrarem os melhores petshops e veterinários da sua cidade. Perfil para cada pet, avaliações e recomendações da comunidade.</p>
+      <p align="center"><a href="https://github.com/dudacarvalhoc/AuValia">🔗 Ver projeto</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 Take A Look</h3>
+      <p align="center"><i>3º semestre</i></p>
+      <p>App inspirado no Pinterest com sistema de posts, curtidas, salvamento e perfis de usuário. Desenvolvido em JavaScript, HTML e CSS.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏡 Home Automation</h3>
+      <p align="center"><i>2º semestre</i></p>
+      <p>Casa totalmente automatizada via Bluetooth: controle de luzes, cores RGB, portões e portas. Da maquete em MDF até a programação completa.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏎️ Bluetooth Car</h3>
+      <p align="center"><i>1º semestre</i></p>
+      <p>Carrinho controlado por Bluetooth com Arduino. Projeto avaliativo em formato de competição: estourar o balão do adversário primeiro 🎈</p>
+    </td>
+  </tr>
+</table>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&theme=rose_pine&title_color=ff9bcd&icon_color=ff80bf&text_color=f2e8f0&bg_color=1a1b27&border_color=ff9bcd&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&theme=rose_pine&title_color=ff9bcd&text_color=f2e8f0&bg_color=1a1b27&border_color=ff9bcd&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dudacarvalhoc&theme=rose-pine&hide_border=false&border=ff9bcd&background=1a1b27&stroke=ff9bcd&ring=ff9bcd&fire=ff80bf&currStreakLabel=ff9bcd" />
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 🐍 A cobrinha comendo meus contribuições!
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/dudacarvalhoc/dudacarvalhoc/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+## 💭 Frase do dia
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" />
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" />
+  
+  <p>💗 <i>"Technology moves the world — and I want to help code the future."</i> 💗</p>
+  
+</div>
