@@ -81,13 +81,15 @@
 <img src="https://skillicons.dev/icons?i=react,html,css" height="55" />
 
 ### 📊 Business & Data
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI" />
-&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35" alt="Excel" />
-&nbsp;
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="35" alt="PowerPoint" />
-&nbsp;
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="35" alt="SAP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="Power BI" />
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55" alt="Power BI" />
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" height="55" alt="Excel" />
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2019.svg" height="55" alt="PowerPoint" />
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="55" alt="SAP" />
 
 ### 🛠️ Ferramentas
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" height="55" />
