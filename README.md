@@ -38,11 +38,11 @@
 
 👩‍💻 Olá! Eu sou a **Maria Eduarda Carvalho**, mas pode me chamar de **Duda** 💕
 
-🎓 Tenho 20 anos e curso **Bacharelado em Ciência da Computação**
+🎓 Tenho 21 anos e curso **Bacharelado em Ciência da Computação**
 
 🌍 Moro em **Indaiatuba, SP — Brasil**
 
-💼 Atualmente sou **Planning Intern na Lenovo** na área de Global Supply Chain
+💼 Atualmente sou **Business Analyst Intern na TAAK** no universo Salesforce
 
 ☁️ Estudante apaixonada por **Salesforce**, **Java** e **Python**
 
