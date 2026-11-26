@@ -1,35 +1,40 @@
-<!-- 🌷 Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D5E5,50:F4A6C1,100:D88BB0&height=200&section=header&text=Hi,%20I'm%20Duda%20🌷&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Salesforce%20Business%20Analyst&descAlignY=58&descSize=16" width="100%"/>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=F4A6C1&center=true&vCenter=true&width=560&lines=Salesforce+Business+Analyst+Intern+%F0%9F%92%97;Computer+Science+Student+%F0%9F%8C%B8;Turning+business+needs+into+solutions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=F4A6C1&center=true&vCenter=true&width=560&lines=Salesforce+Business+Analyst+Intern+%F0%9F%92%97;Computer+Science+Student+%F0%9F%8C%B8;Turning+business+needs+into+solutions+%E2%9C%A8" alt="Typing SVG"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/dudacarvalhoc/"><img src="https://img.shields.io/badge/LinkedIn-F4A6C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dudacortellini@gmail.com"><img src="https://img.shields.io/badge/Gmail-F4A6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dudaccortellini@hotmail.com"><img src="https://img.shields.io/badge/Outlook-F4A6C1?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=dudacarvalhoc&label=Profile%20views&color=f4a6c1&style=for-the-badge" alt="profile views"/>
 </p>
----
+<hr/>
+<h2>🌸 About Me</h2>
  
-## 🌸 About Me
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <ul>
+        <li>💗 Hi! I'm <b>Maria Eduarda</b>, but you can call me <b>Duda</b></li>
+        <li>🎓 Computer Science student based in <b>Indaiatuba, SP — Brazil</b></li>
+        <li>☁️ <b>Business Analyst Intern</b> at <b>TAAK</b>, working in the Salesforce ecosystem</li>
+        <li>🌷 Passionate about <b>Salesforce, Java and Python</b></li>
+        <li>📈 Curious about <b>investing</b> and how technology shapes business</li>
+        <li>☕ Powered by coffee</li>
+      </ul>
+      <p><i>✨ "Technology moves the world — and I want to help code the future."</i></p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/duda-coding.svg" width="300" alt="pink computer illustration"/>
+    </td>
+  </tr>
+</table>
+<hr/>
+<h2>🌷 Tech Stack</h2>
  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-- 💗 Hi! I'm **Maria Eduarda**, but you can call me **Duda**
-- 🎓 Computer Science student based in **Indaiatuba, SP — Brazil**
-- ☁️ **Business Analyst Intern** at **TAAK**, working in the Salesforce ecosystem
-- 🌷 Passionate about **Salesforce, Java and Python**
-- 📈 Curious about **investing** and how technology shapes business
-- ✨ *"Technology moves the world — and I want to help code the future."*
-<br clear="right"/>
----
- 
-## 🌷 Tech Stack
- 
-**☁️ Salesforce Ecosystem**
- 
+<p><b>☁️ Salesforce Ecosystem</b></p>
 <p>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apex-F4A6C1?style=flat-square&logo=salesforce&logoColor=white"/>
@@ -37,26 +42,22 @@
   <img src="https://img.shields.io/badge/Lightning_Components-F4A6C1?style=flat-square&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flows_&_Automation-F4A6C1?style=flat-square&logo=salesforce&logoColor=white"/>
 </p>
-**💻 Languages & Front-end**
- 
+<p><b>💻 Languages & Front-end</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,react,html,css&theme=dark"/>
 </p>
-**📊 Business & Data**
- 
+<p><b>📊 Business & Data</b></p>
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
 </p>
-**🛠️ Tools**
- 
+<p><b>🛠️ Tools</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino&theme=dark"/>
 </p>
----
- 
-## 💗 Featured Projects
+<hr/>
+<h2>💗 Featured Projects</h2>
  
 <table>
   <tr>
@@ -79,6 +80,7 @@
       <sub><i>3rd semester</i></sub>
       <p>Web platform that helps pet owners find the best pet shops and vets in their city, with pet profiles and community reviews.</p>
       <img src="https://img.shields.io/badge/Web-F4A6C1?style=flat-square"/>
+      <p><a href="https://github.com/dudacarvalhoc/AuValia">🔗 View project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📸 Take A Look</h3>
@@ -102,18 +104,14 @@
     </td>
   </tr>
 </table>
----
- 
-## 🌸 GitHub Stats
+<hr/>
+<h2>🌸 GitHub Stats</h2>
  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dudacarvalhoc&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=F4A6C1&icon_color=F4A6C1&text_color=E6EDF3&custom_title=Duda's%20GitHub%20Stats%20💗"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacarvalhoc&layout=compact&hide_border=true&hide=jupyter%20notebook&bg_color=0D1117&title_color=F4A6C1&text_color=E6EDF3"/>
 </p>
----
- 
-<p align="center">
-  <i>💗 Thanks for stopping by — let's connect! 🌷</i>
-</p>
+<hr/>
+<p align="center"><i>💗 Thanks for stopping by — let's connect! 🌷</i></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D88BB0,50:F4A6C1,100:F9D5E5&height=120&section=footer" width="100%"/>
  
