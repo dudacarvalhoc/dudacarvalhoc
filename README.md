@@ -113,5 +113,7 @@
 </p>
 <hr/>
 <p align="center"><i>💗 Thanks for stopping by — let's connect! 🌷</i></p>
+
+<p align="center"><i>💗 Trailhead: https://www.salesforce.com/trailblazer/dudacarvalho</i></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D88BB0,50:F4A6C1,100:F9D5E5&height=120&section=footer" width="100%"/>
  
