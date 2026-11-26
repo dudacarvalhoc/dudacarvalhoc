@@ -1,1 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE4EF"/>
+      <stop offset="0.5" stop-color="#FBD3E9"/>
+      <stop offset="1" stop-color="#E8D5FF"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B2140"/>
+      <stop offset="1" stop-color="#2A1630"/>
+    </linearGradient>
+    <style>
+      .heart { animation: float 4s ease-in-out infinite; }
+      .h2 { animation-delay: 1.3s; }
+      .h3 { animation-delay: 2.6s; }
+      @keyframes float {
+        0%   { transform: translateY(0);    opacity: 0; }
+        20%  { opacity: 1; }
+        100% { transform: translateY(-70px); opacity: 0; }
+      }
+      .line { animation: type 3.6s steps(12) infinite; }
+      .l2 { animation-delay: .6s; } .l3 { animation-delay: 1.2s; }
+      .l4 { animation-delay: 1.8s; } .l5 { animation-delay: 2.4s; }
+      @keyframes type {
+        0%   { transform: scaleX(0); }
+        40%  { transform: scaleX(1); }
+        90%  { transform: scaleX(1); opacity: 1; }
+        100% { transform: scaleX(1); opacity: 0; }
+      }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .sparkle { animation: twinkle 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .s2 { animation-delay: .7s; } .s3 { animation-delay: 1.4s; }
+      @keyframes twinkle { 0%,100% { transform: scale(.4); opacity: .3; } 50% { transform: scale(1); opacity: 1; } }
+      .sway { animation: sway 3s ease-in-out infinite; transform-origin: 340px 270px; }
+      @keyframes sway { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+    </style>
+  </defs>
 
+  <!-- background -->
+  <rect width="400" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="60" cy="60" r="40" fill="#FFFFFF" opacity=".35"/>
+  <circle cx="350" cy="70" r="28" fill="#FFFFFF" opacity=".3"/>
+
+  <!-- sparkles -->
+  <g fill="#F48FB1">
+    <path class="sparkle" d="M45 140 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+    <path class="sparkle s2" d="M355 130 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#C59BFF"/>
+    <path class="sparkle s3" d="M80 40 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#FFB86C"/>
+  </g>
+
+  <!-- desk -->
+  <rect x="20" y="268" width="360" height="14" rx="7" fill="#E79BB8"/>
+
+  <!-- computer body -->
+  <rect x="110" y="70" width="180" height="150" rx="18" fill="#FFF6FA" stroke="#E79BB8" stroke-width="4"/>
+  <rect x="126" y="86" width="148" height="108" rx="10" fill="url(#screen)"/>
+
+  <!-- code lines -->
+  <g transform="translate(138 100)">
+    <rect class="line"    x="0"  y="0"  width="70"  height="7" rx="3.5" fill="#F4A6C1" style="transform-origin:0 0"/>
+    <rect class="line l2" x="12" y="16" width="95"  height="7" rx="3.5" fill="#C59BFF" style="transform-origin:12px 0"/>
+    <rect class="line l3" x="12" y="32" width="60"  height="7" rx="3.5" fill="#8BE9FD" style="transform-origin:12px 0"/>
+    <rect class="line l4" x="24" y="48" width="80"  height="7" rx="3.5" fill="#FFB86C" style="transform-origin:24px 0"/>
+    <rect class="line l5" x="0"  y="64" width="50"  height="7" rx="3.5" fill="#F4A6C1" style="transform-origin:0 0"/>
+    <rect class="cursor"  x="56" y="62" width="4"   height="11" fill="#FFFFFF"/>
+  </g>
+
+  <!-- little heart on monitor -->
+  <path d="M200 206 c-3 -4 -10 -2 -8 3 l8 7 8 -7 c2 -5 -5 -7 -8 -3z" fill="#F48FB1"/>
+
+  <!-- stand + keyboard -->
+  <rect x="185" y="220" width="30" height="22" fill="#F7C6D9"/>
+  <rect x="130" y="242" width="140" height="24" rx="8" fill="#FFF6FA" stroke="#E79BB8" stroke-width="3"/>
+  <g fill="#F7C6D9">
+    <rect x="142" y="249" width="14" height="5" rx="2"/><rect x="160" y="249" width="14" height="5" rx="2"/>
+    <rect x="178" y="249" width="14" height="5" rx="2"/><rect x="196" y="249" width="14" height="5" rx="2"/>
+    <rect x="214" y="249" width="14" height="5" rx="2"/><rect x="232" y="249" width="14" height="5" rx="2"/>
+    <rect x="160" y="257" width="70" height="5" rx="2"/>
+  </g>
+
+  <!-- coffee mug -->
+  <rect x="58" y="232" width="34" height="36" rx="6" fill="#FFFFFF" stroke="#E79BB8" stroke-width="3"/>
+  <path d="M92 240 q14 0 14 12 q0 12 -14 12" fill="none" stroke="#E79BB8" stroke-width="3"/>
+  <path d="M70 226 q-4 -8 2 -14 M80 226 q-4 -8 2 -14" stroke="#E79BB8" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".7"/>
+  <path d="M75 252 c-2 -3 -7 -1 -5 2 l5 5 5 -5 c2 -3 -3 -5 -5 -2z" fill="#F48FB1"/>
+
+  <!-- tulip in pot -->
+  <g class="sway">
+    <path d="M340 270 q-2 -30 0 -58" stroke="#7BC47F" stroke-width="4" fill="none"/>
+    <path d="M340 245 q-16 -6 -18 -20 q14 4 18 20z" fill="#7BC47F"/>
+    <path d="M326 200 q2 -18 14 -22 q12 4 14 22 q-6 12 -14 12 q-8 0 -14 -12z" fill="#F06292"/>
+    <path d="M340 178 q-5 12 0 22 q5 -10 0 -22z" fill="#F48FB1"/>
+  </g>
+  <path d="M324 258 h32 l-4 20 h-24z" fill="#C59BFF"/>
+
+  <!-- floating hearts -->
+  <g fill="#F48FB1">
+    <path class="heart"    d="M300 90 c-4 -6 -14 -3 -11 4 l11 10 11 -10 c3 -7 -7 -10 -11 -4z"/>
+    <path class="heart h2" d="M95 110 c-3 -5 -11 -2 -9 3 l9 8 9 -8 c2 -5 -6 -8 -9 -3z" fill="#C59BFF"/>
+    <path class="heart h3" d="M318 150 c-3 -4 -9 -2 -7 3 l7 6 7 -6 c2 -5 -4 -7 -7 -3z"/>
+  </g>
+</svg>
